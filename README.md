@@ -32,9 +32,9 @@ introducción de un valor y la división de un valor por cero.
 A continuación se muestra un ejemplo de la ejecución esperada:
 
 Introducir un número entero:
-hola   
-Valor introducido incorrecto. Inténtelo de nuevo...   
-Introducir un número entero:   
+hola  
+Valor introducido incorrecto. Inténtelo de nuevo...  
+Introducir un número entero:  
 9999999999  
 El valor introducido desborda las capacidades de esta calculadora. Inténtelo de nuevo. Inténtelo de nuevo...  
 Introducir un número entero:  
