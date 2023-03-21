@@ -32,34 +32,34 @@ introducción de un valor y la división de un valor por cero.
 A continuación se muestra un ejemplo de la ejecución esperada:
 
 Introducir un número entero:
-hola
-Valor introducido incorrecto. Inténtelo de nuevo...
-Introducir un número entero:
-9999999999
-El valor introducido desborda las capacidades de esta calculadora. Inténtelo de nuevo. Inténtelo de nuevo...
-Introducir un número entero:
-1234567
-1234567
-¿operador? (+ - * / % o s para salir)
-*
-Introducir un número entero:
-987654
-El resultado desborda las capacidades de esta calculadora
-1234567
-¿operador? (+ - * / % o s para salir)
-*
-Introducir un número entero:
-42
-1234567 * 42 = 51851814
-¿operador? (+ - * / % o s para salir)
-/
-Introducir un número entero:
-17
-51851814 / 17 = 3050106
-¿operador? (+ - * / % o s para salir)/
-/
-Introducir un número entero:
-0
-La división por cero no está definida
-¿operador? (+ - * / % o s para salir)
-q
+hola  
+Valor introducido incorrecto. Inténtelo de nuevo...  
+Introducir un número entero:  
+9999999999  
+El valor introducido desborda las capacidades de esta calculadora. Inténtelo de nuevo. Inténtelo de nuevo...  
+Introducir un número entero:  
+1234567  
+1234567  
+¿operador? (+ - * / % o s para salir)  
+*  
+Introducir un número entero:  
+987654  
+El resultado desborda las capacidades de esta calculadora  
+1234567  
+¿operador? (+ - * / % o s para salir)  
+*  
+Introducir un número entero:  
+42  
+1234567 * 42 = 51851814  
+¿operador? (+ - * / % o s para salir)  
+/  
+Introducir un número entero:  
+17  
+51851814 / 17 = 3050106  
+¿operador? (+ - * / % o s para salir)/  
+/  
+Introducir un número entero:  
+0  
+La división por cero no está definida  
+¿operador? (+ - * / % o s para salir)  
+q  
